@@ -1,0 +1,3 @@
+[submodule "LLP-TELEMATICA-AULAS"]
+	path = LLP-TELEMATICA-AULAS
+	url = https://github.com/ricdtaveira/llp-telematica.git
